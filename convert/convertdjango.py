@@ -1,1 +1,1 @@
-import tkinter
+print(5+5)
